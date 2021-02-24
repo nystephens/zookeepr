@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/nystephens/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "routes": "^2.1.0"
   }
 }
